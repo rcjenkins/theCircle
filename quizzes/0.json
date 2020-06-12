@@ -91,12 +91,12 @@
                 {
                     "id": "14",
                     "text": "Yes Please",
-                    "nextQuestionId": 5
+                    "nextQuestionId": "5"
                 },
                 {
                     "id": "15",
                     "text": "No thanks",
-                    "nextQuestionId": 4
+                    "nextQuestionId": "4"
                 }
             ]
         },
