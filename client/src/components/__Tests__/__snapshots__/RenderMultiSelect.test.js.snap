@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RenderMultiSelect renders correctly 1`] = `
+Array [
+  <div
+    className="form-group"
+  >
+    <label
+      className=""
+      htmlFor="exampleSelect"
+      id="exampleSelectLabel"
+    >
+      Great what contributed to your success today?
+    </label>
+    <select
+      className="form-control"
+      id="exampleSelect"
+      multiple={true}
+      name="select"
+      onChange={[Function]}
+      size="6"
+    >
+      <option
+        id={2}
+      >
+        My colleagues.
+      </option>
+      <option
+        id={3}
+      >
+        I felt empowered to get my job done.
+      </option>
+      <option
+        id={4}
+      >
+        I had access to all of the tools I needed to smash it.
+      </option>
+      <option
+        id={5}
+      >
+        I could focus on my most important tasks.
+      </option>
+      <option
+        id={6}
+      >
+        I knew exactly what I was doing so just nailed it.
+      </option>
+      <option
+        id={7}
+      >
+        I don't know.  I was just on a role.
+      </option>
+    </select>
+  </div>,
+  <div
+    className="form-group"
+  >
+    <button
+      aria-label={null}
+      className="btn btn-primary"
+      onClick={[Function]}
+      type="button"
+    >
+      Continue
+    </button>
+  </div>,
+]
+`;

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RenderButton renders correctly 1`] = `
+<div
+  className="form-group"
+  role="group"
+>
+  <div
+    className="label label-default"
+    id="question"
+  >
+    Did you enjoy yourself today?
+  </div>
+  <span>
+    <button
+      aria-label="question"
+      className="btn btn-primary"
+      id="button-0"
+      onClick={[Function]}
+      type="button"
+    >
+      Hell Yes!
+    </button>
+     
+    <button
+      aria-label="question"
+      className="btn btn-primary"
+      id="button-1"
+      onClick={[Function]}
+      type="button"
+    >
+      Nope... :-(
+    </button>
+     
+  </span>
+</div>
+`;

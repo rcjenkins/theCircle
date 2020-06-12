@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "env": {
+    "node": true,
+    "browser": true,
+    "jest": true,
+    "es6": true
+  },
+  "extends": ["last", "prettier/react", "plugin:react/recommended"]
+}

@@ -1,0 +1,20 @@
+{
+    "quizData": {
+        "quizId": "0",
+        "questionAnswers": [
+            {
+                "id": "0",
+                "answers": [
+                    "0"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "4",
+                    "5"
+                ]
+            }
+        ]
+    }
+}
